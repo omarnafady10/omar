@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(226, 220, 220);
+
+}
+.ul{
+    display: flex;
+    text-decoration: none;
+    
+}
+.limg{
+margin-top: 30px;
+
+}
+.li1{
+margin-top: 30px;
+margin-left: 50px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 170%;
+color: rgb(204, 174, 98);
+}
+.li2{
+margin-top: 30px;
+margin-left: 100px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 170%;
+}
+
+
+
+.li3{
+margin-top: 30px;
+margin-left: 120px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 170%; 
+}
+.imglow{
+    display: flex;
+    margin-left: 500px;
+}
+.fa-brands{
+    margin-left: 50px;
+}
+.icon{
+    display: flex;
+    margin-bottom: 5px;
+    margin-left: 880px;
+}
+.divbackimg{
+    background-image: url("FC_WEB_Classics_Startimer_Pilot_Heritage_Manufacture_202285_Slider_Desktop_1400x.webp");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.h4{
+    color: rgba(250, 248, 245, 0.904);
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 100%;
+}
+.h11{
+    color: rgb(221, 163, 17);
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.div{
+    background-color: rgba(160, 157, 157, 0.822);
+}
+.divppp{
+    background-image: url("world_1920x1080_cdf32dc0-a4e0-4234-bde9-385e016b2a4a_1500x.webp");
+    height: 450px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.pback{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 550%;
+    color: #000000;
+}
+.divimg{
+    background-color: rgb(136, 132, 132);
+}
+
